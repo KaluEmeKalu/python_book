@@ -1,4 +1,5 @@
 string1 = 'How are you doing'
+print(type(string1))
 
 string2 = "You can create a string this way as well."
 string3 = "Strings can also have numbers, like 23 414, and some symbols, like #$*&#"
