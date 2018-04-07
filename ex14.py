@@ -1,11 +1,5 @@
-students = 20.0
+num1 = 5 / 3.0 + 2 * 3
+num2 = 5 / 3 + 2.0 * 3
 
-print("\n\nStudents is currently a float type")
-print(type(students))
-print(students)
-
-students = int(students)
-
-print("\n\nNow students has been converted into an int type")
-print(type(students))
-print(students)
+print(num1)
+print(num2)

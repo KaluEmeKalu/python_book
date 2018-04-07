@@ -18,3 +18,13 @@
 - I Changed "A note on Comments" to "A note on # Signs:" 
 	- See pg19. 
 "
+
+
+***********************
+***********************
+
+- Added Question 1 to Question 10:
+	- "What will be the output of"
+	- page 28 to 29
+- Added "The Str() Method"
+	- page 26 to 28

@@ -1,6 +1,6 @@
-assists = 5
-turnovers = 3
-ratio = assists / turnovers
+apples = 10
 
-print(ratio)
-
+text = "I have " + str(apples) + " apples."
+print(text)
+print("Original apples datatype -->", type(apples))
+print("apples datatype After str() -->", type(str(apples)))
