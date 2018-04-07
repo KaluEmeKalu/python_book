@@ -4,6 +4,8 @@
 - added "a note on comments" and comment numbers
 	- pg 11 and pg 12
 - added line numbers to all code (except output)
+	- okay, not all yet. Im working on it. 
+	- I've only done up to ex9.py
 - Add comment numbers with grey background
 - changed all of main.py to app.py
 	- Import Python Scripts/Modules
@@ -13,5 +15,6 @@
 - "If you have Mac/Linux" and "If You have Windows"
 	- page 18
 	- The part under if you have windows is new don't forget hte last line. "type nul > ex1.py"
-- I Changed "A note on Comments" to "A note on # Signs:" See pg19. 
+- I Changed "A note on Comments" to "A note on # Signs:" 
+	- See pg19. 
 "
